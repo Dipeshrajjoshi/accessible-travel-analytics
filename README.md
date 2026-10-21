@@ -2,8 +2,7 @@
 
 ## Project overview
 
-This portfolio project demonstrates a beginner-friendly, end-to-end data analysis workflow using **synthetic accessible-travel booking data**. It is designed around the kinds of tasks listed in an entry-level Data Analyst job description: organizing records, validating data, analyzing operational metrics, reporting findings, and documenting work clearly.
-
+This portfolio project demonstrates a beginner-friendly, end-to-end data analysis workflow using **synthetic accessible-travel booking data**. 
 **Important:** This is an independent portfolio simulation. The dataset is fictional and is not Wheel the World's internal data. The results must not be presented as real company performance.
 
 ## Business question
