@@ -1,0 +1,9 @@
+source_row,booking_id,issue,action
+27,BK0026,Invalid customer_rating; set to blank,Standardized or retained with missing optional value
+41,BK0040,Invalid or negative booking_value,Excluded row
+53,BK0052,Missing destination,Excluded row
+69,BK0068,Missing customer_id; retained as blank,Standardized or retained with missing optional value
+86,BK0085,Invalid booking_date,Excluded row
+99,BK0097,Duplicate booking_id,Excluded duplicate; first occurrence retained
+123,BK0122,Standardized booking_status from Complete to Completed,Standardized or retained with missing optional value
+147,BK0146,Non-numeric customer_rating; set to blank,Standardized or retained with missing optional value

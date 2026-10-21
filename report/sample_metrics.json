@@ -1,0 +1,28 @@
+{
+  "dataset_type": "Synthetic sample data; not Wheel the World's internal data",
+  "raw_rows": 180,
+  "cleaned_rows": 176,
+  "excluded_rows": 4,
+  "quality_log_entries": 8,
+  "completed_bookings": 112,
+  "cancelled_bookings": 31,
+  "pending_bookings": 33,
+  "total_completed_revenue": 87249.05,
+  "average_completed_booking_value": 779.01,
+  "cancellation_rate_all_cleaned_bookings": 17.61,
+  "average_valid_customer_rating": 4.18,
+  "valid_ratings_count": 157,
+  "top_destination_by_completed_revenue": {
+    "destination": "London",
+    "revenue": 16232.42
+  },
+  "top_month_by_completed_revenue": {
+    "month": "2025-05",
+    "revenue": 12143.93
+  },
+  "status_counts": {
+    "Completed": 112,
+    "Cancelled": 31,
+    "Pending": 33
+  }
+}

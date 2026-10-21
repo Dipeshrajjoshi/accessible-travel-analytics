@@ -1,0 +1,181 @@
+booking_id,booking_date,destination,customer_id,booking_value,booking_status,accessibility_type,customer_rating,travel_month
+BK0001,2025-11-24,London,C0014,852.47,Completed,Accessible transport,3,2025-11
+BK0002,2025-02-14,Rome,C0028,651.56,Completed,Step-free access,1,2025-02
+BK0003,2025-09-16,Barcelona,C0076,122.93,Cancelled,Visual support,5,2025-09
+BK0004,2025-01-04,Vancouver,C0036,833.54,Pending,Step-free access,4,2025-01
+BK0005,2025-04-21,Toronto,C0078,552.25,Completed,Visual support,5,2025-04
+BK0006,2025-01-23,Sydney,C0011,362.57,Cancelled,Accessible transport,3,2025-01
+BK0007,2025-05-31,Toronto,C0011,154.00,Cancelled,Step-free access,5,2025-05
+BK0008,2025-02-21,Rome,C0047,840.92,Completed,Step-free access,5,2025-02
+BK0009,2025-07-09,Toronto,C0010,426.08,Completed,Accessible transport,5,2025-07
+BK0010,2025-11-22,Vancouver,C0049,63.09,Cancelled,Visual support,5,2025-11
+BK0011,2025-11-24,New York,C0005,772.55,Pending,Visual support,2,2025-11
+BK0012,2025-07-25,Lisbon,C0073,788.24,Completed,Visual support,4,2025-07
+BK0013,2025-04-19, barcelona ,C0018,1285.85,Completed,Step-free access,3,2025-04
+BK0014,2025-10-15,Lisbon,C0075,466.54,Pending,Hearing support,5,2025-10
+BK0015,2025-07-05,New York,C0015,840.83,Completed,Step-free access,2,2025-07
+BK0016,2025-11-18,Vancouver,C0009,636.32,Pending,Hearing support,4,2025-11
+BK0017,2025-07-15,Sydney,C0015,280.18,Cancelled,Accessible transport,,2025-07
+BK0018,2025-05-17,Toronto,C0021,652.42,Completed,Hearing support,4,2025-05
+BK0019,2025-01-02,Lisbon,C0082,154.21,Cancelled,Accessible transport,3,2025-01
+BK0020,2025-11-08,New York,C0021,687.11,Completed,Accessible transport,4,2025-11
+BK0021,2025-09-29,Barcelona,C0104,225.66,Cancelled,Visual support,,2025-09
+BK0022,2025-05-03,Barcelona,C0011,748.07,Completed,Wheelchair access,5,2025-05
+BK0023,2025-09-06,London,C0034,206.55,Cancelled,Accessible transport,5,2025-09
+BK0024,2025-11-07,Rome,C0097,690.48,Completed,Step-free access,,2025-11
+BK0025,2025-06-09,Rome,C0016,671.59,Pending,Step-free access,5,2025-06
+BK0026,2025-04-26,London,C0071,695.74,Completed,Step-free access,6,2025-04
+BK0027,2025-10-29,New York,C0005,1190.68,Completed,Visual support,4,2025-10
+BK0028,2025-02-06,New York,C0028,1054.66,Completed,Accessible transport,5,2025-02
+BK0029,2025-03-09,Sydney,C0013,1129.63,Completed,Hearing support,4,2025-03
+BK0030,2025-07-01,Rome,C0094,475.84,Completed,Wheelchair access,5,2025-07
+BK0031,2025-12-11,London,C0032,718.99,Completed,Step-free access,5,2025-12
+BK0032,2025-04-08,Sydney,C0036,1159.65,Completed,Hearing support,4,2025-04
+BK0033,2025-05-08,London,C0084,992.80,Completed,Accessible transport,3,2025-05
+BK0034,2025-01-08,London,C0063,512.02,Completed,Hearing support,3,2025-01
+BK0035,2025-04-20,Rome,C0101,785.76,Completed,Hearing support,4,2025-04
+BK0036,2025-05-27,Rome,C0101,789.69,Pending,Accessible transport,,2025-05
+BK0037,2025-12-05,Sydney,C0095,1099.12,Completed,Accessible transport,2,2025-12
+BK0038,2025-02-01,Toronto,C0062,583.08,Completed,Accessible transport,2,2025-02
+BK0039,2025-09-29,Vancouver,C0077,695.80,Completed,Wheelchair access,4,2025-09
+BK0040,2025-12-12,New York,C0073,-125.00,Completed,Step-free access,3,2025-12
+BK0041,2025-10-24,Barcelona,C0034,165.08,Cancelled,Step-free access,5,2025-10
+BK0042,2025-12-09,Toronto,C0017,590.90,Completed,Visual support,4,2025-12
+BK0043,2025-08-23,Toronto,C0013,666.06,Completed,Wheelchair access,5,2025-08
+BK0044,2025-10-03,New York,C0009,315.54,Cancelled,Step-free access,4,2025-10
+BK0045,2025-07-09,Lisbon,C0104,439.61,Completed,Accessible transport,4,2025-07
+BK0046,2025-01-05,Lisbon,C0018,651.54,Pending,Visual support,3,2025-01
+BK0047,2025-03-01,London,C0092,717.49,Pending,Visual support,5,2025-03
+BK0048,2025-04-15,Lisbon,C0007,181.45,Cancelled,Wheelchair access,5,2025-04
+BK0049,2025-11-21,Rome,C0034,928.70,Completed,Step-free access,3,2025-11
+BK0050,2025-08-15,Rome,C0089,97.70,Cancelled,Step-free access,1,2025-08
+BK0051,2025-10-07,Barcelona,C0040,642.10,Completed,Visual support,3,2025-10
+BK0052,2025-01-21,,C0086,478.52,Completed,Wheelchair access,5,2025-01
+BK0053,2025-07-01,Rome,C0103,109.51,Cancelled,Step-free access,4,2025-07
+BK0054,2025-07-31,Barcelona,C0043,358.76,Completed,Hearing support,5,2025-07
+BK0055,2025-12-09,New York,C0005,1101.77,Completed,Hearing support,4,2025-12
+BK0056,2025-04-24,New York,C0102,1197.68,Completed,Step-free access,4,2025-04
+BK0057,2025-04-25,Barcelona,C0099,769.42,Pending,Visual support,5,2025-04
+BK0058,2025-06-29,Rome,C0069,923.41,Pending,Visual support,,2025-06
+BK0059,2025-01-15,London,C0014,1070.40,Completed,Accessible transport,4,2025-01
+BK0060,2025-08-11,Toronto,C0056,769.08,Pending,Accessible transport,5,2025-08
+BK0061,2025-09-19,London,C0056,959.17,Completed,Wheelchair access,2,2025-09
+BK0062,2025-09-24,New York,C0086,851.58,Completed,Visual support,5,2025-09
+BK0063,2025-11-16,Toronto,C0040,613.38,Pending,Hearing support,4,2025-11
+BK0064,2025-06-17,Rome,C0017,556.57,Pending,Step-free access,4,2025-06
+BK0065,2025-08-04,Rome,C0052,778.76,Pending,Accessible transport,5,2025-08
+BK0066,2025-01-01,Lisbon,C0101,509.74,Completed,Accessible transport,4,2025-01
+BK0067,2025-11-07,Toronto,C0102,352.77,Completed,Step-free access,5,2025-11
+BK0068,2025-12-04,London,,961.54,Completed,Accessible transport,5,2025-12
+BK0069,2025-06-21,London,C0004,797.07,Completed,Wheelchair access,4,2025-06
+BK0070,2025-05-06,Sydney,C0054,105.87,Cancelled,Accessible transport,5,2025-05
+BK0071,2025-04-10,Rome,C0097,701.67,Completed,Wheelchair access,5,2025-04
+BK0072,2025-08-06,New York,C0090,998.16,Completed,Accessible transport,5,2025-08
+BK0073,2025-08-26,Barcelona,C0086,216.72,Cancelled,Accessible transport,5,2025-08
+BK0074,2025-10-14,Toronto,C0093,727.91,Completed,Accessible transport,5,2025-10
+BK0075,2025-08-07,Sydney,C0032,1029.65,Completed,Visual support,4,2025-08
+BK0076,2025-09-24,Sydney,C0057,780.59,Pending,Wheelchair access,4,2025-09
+BK0077,2025-05-27,New York,C0020,707.81,Completed,Step-free access,3,2025-05
+BK0078,2025-07-16,Vancouver,C0054,895.43,Pending,Hearing support,4,2025-07
+BK0079,2025-06-19,Sydney,C0099,1440.10,Completed,Accessible transport,4,2025-06
+BK0080,2025-12-23,Barcelona,C0046,84.66,Cancelled,Visual support,4,2025-12
+BK0081,2025-07-19,Rome,C0029,120.48,Cancelled,Visual support,5,2025-07
+BK0082,2025-08-12,Sydney,C0086,752.45,Completed,Hearing support,4,2025-08
+BK0083,2025-03-26,Sydney,C0076,1320.72,Completed,Accessible transport,,2025-03
+BK0084,2025-12-06,Barcelona,C0018,696.34,Completed,Hearing support,5,2025-12
+BK0085,not-a-date,Barcelona,C0098,640.79,Completed,Hearing support,4,2025-04
+BK0086,2025-05-23,Rome,C0061,861.50,Completed,Wheelchair access,5,2025-05
+BK0087,2025-10-04,Barcelona,C0006,729.63,Completed,Wheelchair access,,2025-10
+BK0088,2025-05-07,New York,C0031,1006.14,Completed,Step-free access,5,2025-05
+BK0089,2025-08-31,London,C0078,203.82,Cancelled,Accessible transport,4,2025-08
+BK0090,2025-02-28,Vancouver,C0004,589.23,Completed,Visual support,3,2025-02
+BK0091,2025-10-22,Rome,C0081,886.47,Completed,Step-free access,5,2025-10
+BK0092,2025-02-22,Lisbon,C0016,558.97,Pending,Accessible transport,5,2025-02
+BK0093,2025-01-22,Toronto,C0054,76.49,Cancelled,Hearing support,5,2025-01
+BK0094,2025-02-24,Rome,C0059,851.82,Completed,Step-free access,5,2025-02
+BK0095,2025-08-11,Vancouver,C0069,437.75,Pending,Hearing support,5,2025-08
+BK0096,2025-08-27,Rome,C0042,746.11,Pending,Step-free access,5,2025-08
+BK0097,2025-02-14,Lisbon,C0049,595.59,Completed,Visual support,5,2025-02
+BK0097,2025-01-15,Sydney,C0028,1295.60,Completed,Visual support,4,2025-01
+BK0099,2025-05-13,Toronto,C0002,637.37,Completed,Accessible transport,4,2025-05
+BK0100,2025-04-08,London,C0063,659.12,Completed,Accessible transport,5,2025-04
+BK0101,2025-05-04,Sydney,C0038,980.76,Pending,Step-free access,1,2025-05
+BK0102,2025-07-27,New York,C0048,713.28,Completed,Hearing support,5,2025-07
+BK0103,2025-10-11,Toronto,C0059,651.84,Completed,Visual support,4,2025-10
+BK0104,2025-06-06,Lisbon,C0025,586.53,Completed,Visual support,3,2025-06
+BK0105,2025-03-03,Vancouver,C0098,673.97,Completed,Accessible transport,5,2025-03
+BK0106,2025-11-02,Lisbon,C0038,736.04,Completed,Step-free access,5,2025-11
+BK0107,2025-07-04,Vancouver,C0007,813.34,Completed,Accessible transport,4,2025-07
+BK0108,2025-05-30,Vancouver,C0063,655.45,Pending,Wheelchair access,5,2025-05
+BK0109,2025-01-07,Lisbon,C0033,472.58,Completed,Hearing support,,2025-01
+BK0110,2025-02-28,London,C0074,883.03,Completed,Wheelchair access,5,2025-02
+BK0111,2025-03-19,Vancouver,C0054,166.80,Cancelled,Accessible transport,4,2025-03
+BK0112,2025-11-02,New York,C0039,295.35,Cancelled,Accessible transport,4,2025-11
+BK0113,2025-08-08,Lisbon,C0027,155.31,Cancelled,Step-free access,5,2025-08
+BK0114,2025-05-16,London,C0071,681.14,Completed,Wheelchair access,4,2025-05
+BK0115,2025-03-22,Barcelona,C0030,517.57,Completed,Visual support,4,2025-03
+BK0116,2025-12-28,Lisbon,C0010,643.32,Pending,Step-free access,5,2025-12
+BK0117,2025-05-16,New York,C0035,1039.66,Completed,Step-free access,3,2025-05
+BK0118,2025-02-06,Barcelona,C0077,794.64,Completed,Accessible transport,5,2025-02
+BK0119,2025-05-28,Sydney,C0035,848.93,Completed,Accessible transport,4,2025-05
+BK0120,2025-10-04,Sydney,C0006,1078.07,Completed,Hearing support,3,2025-10
+BK0121,2025-06-15,Lisbon,C0074,868.68,Completed,Accessible transport,5,2025-06
+BK0122,2025-01-11,Lisbon,C0061,222.62,complete,Accessible transport,2,2025-01
+BK0123,2025-11-30,Sydney,C0063,1166.68,Completed,Wheelchair access,5,2025-11
+BK0124,2025-08-29,Toronto,C0086,645.29,Completed,Wheelchair access,4,2025-08
+BK0125,2025-03-24,Toronto,C0105,477.94,Completed,Accessible transport,,2025-03
+BK0126,2025-01-19,Sydney,C0042,863.02,Completed,Wheelchair access,4,2025-01
+BK0127,2025-07-26,Barcelona,C0067,840.22,Pending,Visual support,2,2025-07
+BK0128,2025-11-15,Sydney,C0007,853.60,Pending,Step-free access,5,2025-11
+BK0129,2025-05-17,Vancouver,C0081,438.31,Completed,Accessible transport,3,2025-05
+BK0130,2025-05-03,Vancouver,C0071,722.63,Completed,Hearing support,5,2025-05
+BK0131,2025-02-17,New York,C0064,830.70,Completed,Visual support,5,2025-02
+BK0132,2025-09-18,Lisbon,C0061,605.56,Completed,Step-free access,5,2025-09
+BK0133,2025-08-22,Vancouver,C0018,709.43,Completed,Wheelchair access,5,2025-08
+BK0134,2025-05-22,Rome,C0065,996.13,Completed,Visual support,,2025-05
+BK0135,2025-01-02,Lisbon,C0063,538.15,Pending,Step-free access,,2025-01
+BK0136,2025-08-17,Sydney,C0098,1330.20,Completed,Accessible transport,4,2025-08
+BK0137,2025-07-13,Sydney,C0050,1479.13,Completed,Step-free access,4,2025-07
+BK0138,2025-07-30,Barcelona,C0091,394.63,Completed,Hearing support,5,2025-07
+BK0139,2025-07-17,Vancouver,C0043,711.37,Completed,Wheelchair access,,2025-07
+BK0140,2025-08-14,London,C0019,87.06,Cancelled,Hearing support,,2025-08
+BK0141,2025-12-02,Vancouver,C0089,275.33,Completed,Hearing support,4,2025-12
+BK0142,2025-11-29,London,C0069,955.10,Completed,Hearing support,5,2025-11
+BK0143,2025-06-12,Sydney,C0030,371.17,Cancelled,Wheelchair access,5,2025-06
+BK0144,2025-08-11,London,C0013,875.93,Pending,Hearing support,5,2025-08
+BK0145,2025-03-27,Lisbon,C0048,811.89,Completed,Hearing support,4,2025-03
+BK0146,2025-03-16,New York,C0024,279.64,Cancelled,Step-free access,N/A,2025-03
+BK0147,2025-03-31,London,C0019,341.70,Cancelled,Step-free access,4,2025-03
+BK0148,2025-08-25,Lisbon,C0002,459.08,Completed,Hearing support,4,2025-08
+BK0149,2025-05-28,Vancouver,C0082,518.94,Completed,Hearing support,5,2025-05
+BK0150,2025-12-20,Lisbon,C0026,632.79,Completed,Hearing support,5,2025-12
+BK0151,2025-09-05,London,C0090,728.89,Completed,Visual support,4,2025-09
+BK0152,2025-01-12,Rome,C0088,889.76,Completed,Wheelchair access,1,2025-01
+BK0153,2025-11-07,Sydney,C0029,1066.65,Completed,Step-free access,5,2025-11
+BK0154,2025-11-14,Lisbon,C0099,497.35,Pending,Step-free access,5,2025-11
+BK0155,2025-11-18,London,C0075,761.40,Pending,Visual support,5,2025-11
+BK0156,2025-03-09,London,C0054,730.65,Completed,Step-free access,4,2025-03
+BK0157,2025-04-13,Vancouver,C0022,123.73,Cancelled,Visual support,5,2025-04
+BK0158,2025-09-04,Lisbon,C0103,503.21,Pending,Wheelchair access,5,2025-09
+BK0159,2025-08-28,London,C0087,863.53,Completed,Hearing support,5,2025-08
+BK0160,2025-10-13,Toronto,C0002,429.79,Completed,Visual support,5,2025-10
+BK0161,2025-10-02,London,C0049,646.69,Completed,Visual support,4,2025-10
+BK0162,2025-02-25,New York,C0072,1180.05,Completed,Visual support,1,2025-02
+BK0163,2025-11-09,New York,C0039,1281.60,Pending,Hearing support,,2025-11
+BK0164,2025-03-01,LONDON,C0039,741.50,Completed,Hearing support,,2025-03
+BK0165,2025-03-01,London,C0086,937.59,Completed,Accessible transport,5,2025-03
+BK0166,2025-08-03,Vancouver,C0063,590.53,Completed,Accessible transport,5,2025-08
+BK0167,2025-07-28,Lisbon,C0031,556.70,Completed,Visual support,5,2025-07
+BK0168,2025-02-20,Toronto,C0008,114.13,Cancelled,Hearing support,,2025-02
+BK0169,2025-05-22,New York,C0028,1292.08,Completed,Accessible transport,3,2025-05
+BK0170,2025-01-11,Barcelona,C0017,626.99,Completed,Accessible transport,4,2025-01
+BK0171,2025-04-16,London,C0019,163.03,Cancelled,Accessible transport,5,2025-04
+BK0172,2025-01-02,Lisbon,C0070,677.28,Completed,Visual support,,2025-01
+BK0173,2025-03-31,London,C0101,927.21,Pending,Step-free access,4,2025-03
+BK0174,2025-10-29,Toronto,C0007,465.61,Completed,Step-free access,3,2025-10
+BK0175,2025-08-04,London,C0076,1050.11,Pending,Wheelchair access,4,2025-08
+BK0176,2025-08-20,New York,C0085,300.76,Cancelled,Accessible transport,2,2025-08
+BK0177,2025-06-04,Sydney,C0052,1119.00,Pending,Hearing support,5,2025-06
+BK0178,2025-12-18,London,C0057,844.98,Completed,Wheelchair access,5,2025-12
+BK0179,2025-02-11,Toronto,C0092,134.19,Cancelled,Visual support,5,2025-02
+BK0180,2025-07-15,Lisbon,C0056,644.13,Completed,Wheelchair access,5,2025-07

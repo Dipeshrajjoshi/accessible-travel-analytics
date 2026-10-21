@@ -1,0 +1,18 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment files
+.env
+.env.*
+
+# Temporary exports
+*.tmp
+*.log
