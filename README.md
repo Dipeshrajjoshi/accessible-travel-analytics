@@ -158,8 +158,3 @@ Because the data is synthetic and randomly generated, the results are illustrati
 - Ratings may be missing and may be affected by response bias.
 - A next iteration could add SQL queries, Power BI, automated tests, date filters, accessibility-type comparisons, and stakeholder-reviewed metric definitions.
 
-## How to discuss this project in an interview
-
-Explain the workflow from raw records to cleaned data, quality log, KPIs, and business recommendations. Be ready to explain why invalid dates and negative booking values are excluded, why invalid ratings are left blank rather than guessed, and how you would validate the same rules with a stakeholder before applying them to production data.
-
-Describe it honestly as a self-directed project using synthetic data. Do not claim that the analysis uses company data or that recommendations have been implemented by a real business.
